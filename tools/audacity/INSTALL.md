@@ -8,7 +8,7 @@
 $ sudo apt install audacity
 ```
 
-# Install FFmpeg and lame
+# Install FFmpeg and LAME
 ```bash
 $ sudo apt install ffmpeg lame
 ```
