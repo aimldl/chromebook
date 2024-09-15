@@ -11,5 +11,7 @@ After [installing Audacity](INSTALL.md), open terminal and run:
 $ audacity
 ```
 
-## Why I started to use it
-There was time that I used Linux, macOS, and Windows. For my deep learning research and daily usage, I needed an audio tool that is more versatile than the OS's default audio player and recorder, yet lighter than serious DAW (Digital Audio Workstation) softwares. Audacity was a good fit because it supports all three OSs. There was no hassle due to different user interface and lack of features. I've been using it for years and quite happy with it. I recently visited Audacity's homepage and found a phrase "Audacity is the world's most popular audio editing and recording app." No wonder. Audacity well-deserves the populatiry. 
+## Why I started to use 
+There was a time when I used Linux, macOS, and Windows. For deep learning research and everyday use, I needed audio tools that were more versatile than the OS's default audio player and recorder, but were lighter than serious Digital Audio Workstation (DAW) software. Audacity was a good fit as it supports all three OSs. There was no hassle due to significant changes in the user interface. 
+
+I recently visited the Audacity homepage and came across this statement: “Audacity is the world’s most popular audio editing and recording app.” Of course. Audacity deserves the popularity. I have been using it for many years and am very satisfied. 
