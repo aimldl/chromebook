@@ -5,7 +5,7 @@
 
 Audacity is a free open source cross-platform audio editing and recording software which has become the world's most popular app. While the officially supported OS includes Windows, macOS, an Linux, it can be used on ChromeOS as ChromeOS natively supports Debian Linux.
 
-<img src="images/screenshot-audacity.png">
+<img src="../../images/screenshot-audacity.png">
 
 ## How to run it on Linux
 After [installing Audacity](INSTALL.md), open terminal and run:
