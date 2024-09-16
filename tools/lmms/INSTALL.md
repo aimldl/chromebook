@@ -9,4 +9,6 @@ LLMS supports Linux, Windows and macOS.
 
 <img src="../../images/lmms_downloaded_file.png">
 
-4. Check the
+4. Drag and drop the file to the directory `Linux files` to copy it.
+
+<img src="../../images/lmms_copy_to_directory_linux_files.png">
