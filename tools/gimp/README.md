@@ -105,6 +105,8 @@ The full message
 (gimp-2.10:2): Gtk-WARNING **: 11:17:05.428: /app/lib/gtk-2.0/2.10.0/immodules/im-ibus.so: undefined symbol: ibus_input_context_set_post_process_key_event
 ```
 
+<img src="../../images/chromebook-gimp.png">
+
 ## Error messages
 ### Error message without the sudo command
 ```bash
