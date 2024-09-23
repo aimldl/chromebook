@@ -5,7 +5,8 @@
 
 > Anaconda is a distribution of the Python and R programming languages for scientific computing, that aims to simplify package management and deployment. 
 > Supported OS include Windows, Linux, and macOS.
-> Source: Wikipedia > [Anaconda (Python distribution)](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
+
+Source: Wikipedia > [Anaconda (Python distribution)](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))
 
 Chrome OS is indirectly supported via `Crostini` which is [Linux on ChromeOS](https://chromeos.dev/en/linux#:~:text=Linux%20on%20ChromeOS%2C%20sometimes%20called,the%20best%20of%20both%20worlds.).
 
