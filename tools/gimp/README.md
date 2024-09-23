@@ -1,12 +1,20 @@
 * Created: 2024-09-23 (Mon)
 
 # Gimp
+Gimp is a popular open-source photo editing tool that supports multiple platforms (GNU/Linux, macOS, Microsoft Windows).
 
-## Download
+The following installation steps are found at 
 https://www.gimp.org/downloads/
+
+When I opened the above link, Chrome OS has been recognized as "we think your OS is Chrome OS".
+
+```
+Current Stable Version
+The current stable release of GIMP is 2.10.38 (2024-05-02).
 
 Show downloads for GNU/Linux | macOS | Microsoft Windows | All
 (we think your OS is Chrome OS)
+```
 
 ## Install manually with `flatpak`
 It's prerequisite to install `flatpak` first. And go to Terminal and run:
