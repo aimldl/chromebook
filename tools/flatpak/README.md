@@ -13,3 +13,11 @@ On a terminal, install `flatpak`, add the Flathub repository and restart Linux.
 $ sudo apt install flatpak
 $ flatpak --user remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 ```
+
+## Verify the installation
+After closing and then restarting the terminal,
+```
+$ which flatpak
+/usr/bin/flatpak
+$
+```
