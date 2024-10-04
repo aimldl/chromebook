@@ -1,5 +1,5 @@
-Updated: 2024-10-04 (Fri)
-Created: 2024-10-04 (Fri)
+- Updated: 2024-10-04 (Fri)
+- Created: 2024-10-04 (Fri)
 
 # OpenShot (Video Editor)
 OpenShot Video Editor is a free and open-source video editor for Windows, macOS, Linux, and ChromeOS.
