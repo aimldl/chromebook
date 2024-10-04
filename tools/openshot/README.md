@@ -32,6 +32,10 @@ INFO app:             Fri Oct  4 13:51:30 2024
 INFO app: ================================================
 $
 ```
+OpenShot will be automatically launched.
+
+<img src="../../images/openshot_lauched_for_the_first_time.png">
+
 ### Expected error without `libfuse2`
 With running the following command, 
 ```bash
@@ -39,6 +43,7 @@ $ sudo apt install -y libfuse2
 ```
 the expected error is
 ```bash
+$ bash <(wget -O - http://openshot.org/files/chromeos/install-stable.sh)
 Redirecting output to ‘wget-log’.
 
 Installing Openshot on Chrome OS [stable].........
